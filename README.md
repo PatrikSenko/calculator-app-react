@@ -42,10 +42,11 @@ Spustite aplikáciu pomocou príkazu
 - Sčítanie
 - Odčítanie
 - Percentá
+- Vymazanie poslednej číslice
 - Anulovanie hodnoty
 
 
-## Screenshots
+## Snímky obrazovky
 
 ![](./assets/screenshot1.png)
 ![](./assets/screenshot2.png)
