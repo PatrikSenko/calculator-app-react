@@ -1,6 +1,7 @@
 
 # Kalkulačka - ReactJS
 Táto kalkulačka je vytvorená pomocou Reactu a umožňuje jednoduché matematické operácie.
+* [![React][React.js]][React-url]
 
 
 ## Demo
