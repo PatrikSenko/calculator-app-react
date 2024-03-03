@@ -53,7 +53,7 @@ Spustite aplikáciu pomocou príkazu
 ![](./assets/screenshot4.png)
 
 
-## Authors
+## Autor
 
 - [@PatrikSenko](https://www.github.com/PatrikSenko)
 
